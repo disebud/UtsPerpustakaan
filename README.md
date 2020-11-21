@@ -1,6 +1,7 @@
-## PERPUSTAKAN PEEMINJAMAN
+## PERPUSTAKAN PEMINJAMAN
 
 **Challenge UTS KELAS PAGII menggunakan Java**
+
 menggunakan Parcelable Data untuk pengiriman data dll.
 
 ### Layout Utama
