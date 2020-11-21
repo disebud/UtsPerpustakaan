@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UTS PERPUSTAKAAN</string>
+
+
+    <string-array name="jenisBuku">
+        <item>MANAJEMEN</item>
+        <item>TEKNIK SIPIL</item>
+        <item>EKONOMI</item>
+        <item>SOSIAL</item>
+        <item>TEKNOLOGI INFORMATIKA</item>
+        <item>AGAMA</item>
+    </string-array>
+
+    <string-array name="lamaSewa">
+        <item>1 Hari</item>
+        <item>2 Hari</item>
+        <item>3 Hari</item>
+        <item>4 Hari</item>
+        <item>5 Hari</item>
+        <item>6 Hari</item>
+        <item>7 Hari</item>
+    </string-array>
+</resources>
